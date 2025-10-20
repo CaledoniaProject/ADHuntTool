@@ -1,5 +1,5 @@
 # ADHuntTool
-official report for the AdHuntTool. C# Script used for Red Team. It can be used by Cobalt Strike execute-assembly or as standalone executable.
+official repo for the AdHuntTool. C# Script used for Red Team. It can be used by Cobalt Strike execute-assembly or as standalone executable.
 
 # How to use it
 
